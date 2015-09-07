@@ -1,0 +1,30 @@
+.title {
+	margin: 10px;
+	padding-top: 30px;
+	padding-left: 25px;
+	padding-right: 25px;
+	background-color: #003A70;
+	color: #F2A900;
+	font-family: Lucida Sans Unicode;
+	font-weight: 500;
+	font-size: 250%;
+}
+
+.app {
+	display: flex;
+}
+
+.image {
+	width: 30%;
+	margin: 10px;
+	padding-top: 30px;
+}
+
+.description {
+	width: 70%;
+	margin: 10px;
+	color: #7C8B88;
+	font-family: Lucida Sans Unicode;
+	font-weight: 600;
+	padding-top: 30px;
+}
