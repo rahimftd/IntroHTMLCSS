@@ -1,0 +1,144 @@
+* {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 100;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.row {
+	width: 85%;
+	margin-right: 7.5%;
+	margin-left: 7.5%;
+	display: flex;
+}
+
+.col-1 {
+	width: 8.33%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-2 {
+	width: 16.66%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-3 {
+	width: 25%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-4 {
+	width: 33.33%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-5 {
+	width: 41.66%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-6 {
+	width: 50%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-7 {
+	width: 58.33%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-8 {
+	width: 66.66%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-9 {
+	width: 75%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-10 {
+	width: 83.33%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-11 {
+	width: 91.66%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.col-12 {
+	width: 100%;
+	padding: 15px;
+	/*margin: 5px;*/
+}
+
+.name-title {
+	font-size: 70px;
+	color: #BCBBBB;
+	width: 100%;
+	text-align: right;
+	line-height: 70%;
+}
+
+.name-sub-title {
+	font-size: 36px;
+	color: #BCBBBB;
+	width: 100%;
+	text-align: right;
+}
+
+#project-heading {
+	color: #BCBBBB;
+	width: 85%;
+	margin-left: 7.5%;
+	margin-right: 7.5%;
+	text-align: left;
+	font-size: 25px;
+	line-height: 70%;
+	/*padding: 15px;*/
+	/*margin: 5px;*/
+}
+
+#header-row {
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #BCBBBB;
+	margin-bottom: 20px;
+}
+
+.thumb {
+	text-align: center;
+}
+
+.proj-details {
+	text-align: center;
+	color: #747704
+}
+
+.logo-image {
+	height: 100%;
+	width: 100%;
+}
+
+.splash {
+	width: 100%;
+	height: 100%;
+	/*padding: 15px;*/
+}
