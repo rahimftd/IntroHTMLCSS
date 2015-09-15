@@ -1,0 +1,38 @@
+body {
+	font-family: 'Dosis', sans-serif;
+	color: #131A2D;
+	font-weight: 700;
+}
+
+.content-area {
+	background-color: #131A2D;
+}
+
+.splash-image {
+	padding-top: 15px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.title-font-main {
+	font-size: 65px;
+}
+
+.title-font-sub {
+	font-size: 35px;
+}
+
+.portfolio-title {
+	color: #D0C4AB;
+	font-size: 30px;
+}
+
+.portfolio-tile-text {
+	color: #D0C4AB;
+	font-size: 30px;
+}
+
+.portfolio-tile-url {
+	color: #D0C4AB;
+	font-size: 20px;
+}
